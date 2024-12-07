@@ -1,0 +1,58 @@
+
+HTML  
+├── Introduction to HTML  
+│      ├── What is HTML?  
+│      ├── Role of HTML in web development  
+│      ├── How browsers interpret HTML  
+│      └── Basic structure of an HTML document  
+│  
+├── HTML Basics  
+│      ├── `<!DOCTYPE>` declaration  
+│      ├── Main tags: `html`, `head`, `body`  
+│      ├── Text formatting: `h1-h6`, `p`, `strong`, `em`, `br`  
+│      ├── Lists: `ol`, `ul`, `li`  
+│      └── Links and images: `a`, `img` (alt attribute)  
+│  
+├── HTML Forms and Tables  
+│      ├── Forms: `form`, `input`, `textarea`, `button`, `select`  
+│      ├── Form attributes: `method`, `action`  
+│      ├── Validation: `required`, `pattern`  
+│      ├── Tables: `table`, `tr`, `td`, `th`  
+│      └── Advanced input types: `email`, `date`, `color`  
+│  
+├── HTML5 Semantic Elements  
+│      ├── `header`, `footer`, `article`, `section`  
+│      ├── `nav` and `aside`  
+│      ├── Benefits of semantic HTML for SEO  
+│      └── Accessibility with ARIA roles  
+│  
+├── HTML Multimedia  
+│      ├── Embedding videos with `video`  
+│      ├── Adding audio using `audio`  
+│      ├── Attributes: `controls`, `autoplay`, `loop`  
+│      └── Using `iframe` to embed external content  
+│  
+├── Advanced HTML5 Features  
+│      ├── Canvas for graphics: `canvas`  
+│      ├── Data attributes: `data-*`  
+│      ├── Local storage: `localStorage`, `sessionStorage`  
+│      └── Drag-and-drop functionality  
+│  
+├── Building Real Projects  
+│      ├── Personal portfolio website  
+│      ├── Blog or news website layout  
+│      ├── Contact form with validation  
+│      └── Multi-page website with navigation  
+│  
+├── Best Practices  
+│      ├── Writing clean and readable HTML  
+│      ├── Organizing code with comments  
+│      ├── Using semantic tags effectively  
+│      └── SEO optimization with meta tags  
+│  
+└── Resources and Tools  
+       ├── MDN Web Docs  
+       ├── W3Schools  
+       ├── Online practice: freeCodeCamp, Frontend Mentor  
+       ├── Text editors: VS Code, Sublime Text  
+       └── Version control with Git and GitHub  
