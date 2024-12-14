@@ -2,7 +2,6 @@
   <div class="container">
     <h1>Todo App</h1>
     
-    <!-- Todo Input -->
     <div class="add-todo">
       <input 
         type="text" 
@@ -13,7 +12,6 @@
       <button (click)="addTodo()">Add</button>
     </div>
 
-    <!-- Todo List -->
     <ul class="todo-list">
       <li *ngFor="let todo of todos" [class.completed]="todo.completed">
         <input 
@@ -26,11 +24,8 @@
       </li>
     </ul>
 
-    <!-- Todo Stats -->
     <div class="todo-stats" *ngIf="todos.length > 0">
       <p>{{ remainingTodos }} items left</p>
     </div>
   </div>
 </main>
-
-<router-outlet />
